@@ -21,13 +21,6 @@ function Footer() {
           </a>
         </li>
         <li className="p-2 sm:mr-5">
-          <a href="https://discord.com/invite/U2peSNf23P"
-             target="_blank" rel="noreferrer"
-             aria-label="Visit Open Sauced GitHub Organisation">
-            <FaDiscord className="text-offWhite hover:text-accent" />
-          </a>
-        </li>
-        <li className="p-2 sm:mr-5">
           <a href="https://www.youtube.com/opensauced"
              target="_blank" rel="noreferrer"
              aria-label="Visit Open Sauced GitHub Organisation">
