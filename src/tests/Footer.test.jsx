@@ -17,5 +17,5 @@ test('renders a "OneGraph" link', () => {
   render(<Footer />);
   const links = screen.getAllByRole('link');
   // const links = container.querySelectorAll('li.p-2 a');
-  expect(links.length).toBe(5);
+  expect(links.length).toBe(4);
 });
